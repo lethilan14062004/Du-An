@@ -8,7 +8,9 @@
 - So sánh hiệu quả giữa các kiến trúc deep learning để lựa chọn mô hình tối ưu cho bài toán phân đoạn ảnh.
 - Trực quan hóa kết quả dự đoán và phân tích khả năng nhận diện vùng tổn thương của mô hình.
 
-   Click vào đây để xem code:
+Click vào đây để xem code:
 UNET: https://github.com/lethilan14062004/Du-An/blob/main/UNET.ipynb
+
 FCNRESNET: https://github.com/lethilan14062004/Du-An/blob/main/FCN_RESNET34.ipynb
-Click vào đây để xem báo cáo:
+
+Click vào đây để xem báo cáo: https://github.com/lethilan14062004/Du-An/blob/main/Nghi%C3%AAn%20c%E1%BB%A9u%20%E1%BB%A9ng%20d%E1%BB%A5ng%20h%E1%BB%8Dc%20s%C3%A2u%20trong%20b%C3%A0i%20to%C3%A1n%20ph%C3%A2n%20%C4%91o%E1%BA%A1n%20%E1%BA%A3nh.pdf
