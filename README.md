@@ -7,3 +7,4 @@
 - Đánh giá hiệu suất mô hình bằng các chỉ số IoU, Dice Score, Pixel Accuracy trên tập test.
 - So sánh hiệu quả giữa các kiến trúc deep learning để lựa chọn mô hình tối ưu cho bài toán phân đoạn ảnh.
 - Trực quan hóa kết quả dự đoán và phân tích khả năng nhận diện vùng tổn thương của mô hình.
+  Click vào đây để xem code: https://github.com/lethilan14062004/Du-An/blob/main/UNET.ipynb
